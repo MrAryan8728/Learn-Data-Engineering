@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": "101",
+    "campaign": "Summer Sale",
+    "clicks": 120,
+    "cost": 450.5
+  },
+  {
+    "customer_id": "102",
+    "campaign": "Winter Sale",
+    "clicks": 200,
+    "cost": 800.0
+  },
+  {
+    "customer_id": "103",
+    "campaign": "Festive Sale",
+    "clicks": 80,
+    "cost": 300.0
+  },
+  {
+    "customer_id": "101",
+    "campaign": "Winter Sale",
+    "clicks": 250,
+    "cost": 950.0
+  }
+]

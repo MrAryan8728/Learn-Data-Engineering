@@ -1,0 +1,14 @@
+[
+   {
+      "customer_id": "102",
+      "campaign": "Winter Sale",
+      "clicks": 200,
+      "cost": 800.0
+   },
+   {
+      "customer_id": "101",
+      "campaign": "Winter Sale",
+      "clicks": 250,
+      "cost": 950.0
+   }
+]
